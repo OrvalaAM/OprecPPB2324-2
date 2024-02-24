@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "119304652646",
+    "firebase_url": "https://oprecppb-default-rtdb.firebaseio.com",
+    "project_id": "oprecppb",
+    "storage_bucket": "oprecppb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119304652646:android:55cca640e34d9897a12aa7",
+        "android_client_info": {
+          "package_name": "com.example.tes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaRG_PI59t6WtusRsDJyBwhgSgsaPRMJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
